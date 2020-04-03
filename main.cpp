@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "Mahasiswa.h"
 
 using namespace std;
 
